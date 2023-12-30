@@ -42,6 +42,7 @@ public class JDBC {
             }
             else {
                 System.out.println("Недостаточно средств");
+            return -1;
             }
 
 
